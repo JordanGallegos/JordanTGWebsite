@@ -22,7 +22,7 @@ export const aboutData = {
     'Los Angeles-based Information Technology Professional with three years of experience working as a User Support Technician. Proven track record diagnosing and resolving a multitude of hardware, software, and operating system issues ensuring efficacy and time to resolution are mutually inclusive. Interested in the realms of Systems Administration, Cyber Security, and Networking. Currently, hold associate-level certifications for networking (Cisco CCNA) and cybersecurity (CompTIA Security+)',
   paragraphTwo:
     "Bachelor's of Science in Business Administration with a focus in Computer Information Systems",
-  resume: 'https://drive.google.com/file/d/1p0UTztAXDulOmhYd-QSHr_xFEZVgvXlS/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://www.linkedin.com/in/jordan-gallegos-b20041197/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
